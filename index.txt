@@ -7,7 +7,7 @@
 // June 29, 2016   : Dharmesh Patel I-224631 : Support DocGenServices.getDocumentFields for Non-logged in user
 // July 15, 2016   : Dharmesh Patel I-226117 : SIT- Project Pricing Summary document should not displaying percent values for Cost Groups Items
 // July 15, 2016   : Dharmesh Patel I-225943 : SIT- Project Pricing Summary Report Not matching with the UI
-// July 21, 2016   : Dharmesh Patel I-226824 : SIT - Project Pricing Summary : Sell Price % should be always be NULL
+// July 21, 2016   : Dharmesh Pateadfafdfl I-226824 : SIT - Project Pricing Summary : Sell Price % should be always be NULL
 // Aug 11, 2016 : Simranjeet Singh S-429494 : SelNavDev2 - Added condition to add address for project conatct with multiple contact role
 //***************************************************************************/
 
